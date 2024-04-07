@@ -1,0 +1,26 @@
+/*
+[class^="col-"]{
+    background-color: chartreuse;
+    border: 2px solid black ;
+    border-color: black;
+}
+*/
+.container{
+    border: 5px solid blue ;    
+}
+
+.col-3{
+    background-color: rgba(255, 0, 0, 0.809);
+    border: 2px solid black ;
+    color: white;     
+}
+.col-2{
+    background-color: yellow;
+    border: 2px solid black ;
+    font-size: calc(3vw);    
+}
+.col-4{
+    background-color: rgba(255, 128, 0, 0.57);    
+    border: 2px solid black ;
+}
+
